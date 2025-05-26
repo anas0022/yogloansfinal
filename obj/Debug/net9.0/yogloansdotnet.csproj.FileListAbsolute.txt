@@ -103,7 +103,6 @@ D:\yogloansdotnet\obj\Debug\net9.0\compressed\fk7bb3rk17-bgghij0q3y.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\4ejy8gtjcv-h6puv8qieg.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\a7hjf7yvaf-7j09wfq3gk.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\rsqgh38mmq-g3a2l4qah2.gz
-D:\yogloansdotnet\obj\Debug\net9.0\compressed\88micy7443-96g3mqy2tg.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\p3fs1amq2a-zpq389zwb1.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\voz9tei4il-d1j2z3n2pv.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\2uk72kucmj-i3y4luciwf.gz
@@ -119,3 +118,5 @@ D:\yogloansdotnet\obj\Debug\net9.0\compressed\inql6onuc8-4m06domx3y.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\4pg8pwdid3-j5iverje9n.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\f25cfgdxkh-lhwukfs3t1.gz
 D:\yogloansdotnet\obj\Debug\net9.0\compressed\zhjbtipgg6-2wicmnqvo0.gz
+D:\yogloansdotnet\obj\Debug\net9.0\yogloansdotnet.sourcelink.json
+D:\yogloansdotnet\obj\Debug\net9.0\compressed\88micy7443-87ay2yhrup.gz

@@ -1962,41 +1962,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\Artboard.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\bike-background.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\bike-background.png'))">
       <SourceType>Package</SourceType>
       <SourceId>yogloansdotnet</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/yogloansdotnet</BasePath>
-      <RelativePath>images/welcome/bike-background.jpg</RelativePath>
+      <RelativePath>images/welcome/bike-background.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l6rwky0y05</Fingerprint>
-      <Integrity>Y9KVvk9z+qyoUMkYJMewCvR50omRAvn6yQ8jvabmRQc=</Integrity>
+      <Fingerprint>alpktsrxw7</Fingerprint>
+      <Integrity>jtv4Xu6b81kTICHpVYIt+yUu5Onz9ezBR+PQX/xELO8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\bike-background.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\bike-background.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\business-background.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\business-background.png'))">
       <SourceType>Package</SourceType>
       <SourceId>yogloansdotnet</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/yogloansdotnet</BasePath>
-      <RelativePath>images/welcome/business-background.jpg</RelativePath>
+      <RelativePath>images/welcome/business-background.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>16px94oj8i</Fingerprint>
-      <Integrity>V4muZEJqBjTxCGnwYXz6WRuQdTLvuv2SQho34IkQtfw=</Integrity>
+      <Fingerprint>p11621j8gc</Fingerprint>
+      <Integrity>zWCCO849SJ16s18kfvNIgKQXWcUVhTQBb/JvqHnXEqE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\business-background.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\business-background.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\cdn.jpg'))">
       <SourceType>Package</SourceType>
@@ -2034,23 +2034,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\colleagues-working-project-discussing-details.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\consumer-durables-background.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\consumer-durables-background.png'))">
       <SourceType>Package</SourceType>
       <SourceId>yogloansdotnet</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/yogloansdotnet</BasePath>
-      <RelativePath>images/welcome/consumer-durables-background.jpg</RelativePath>
+      <RelativePath>images/welcome/consumer-durables-background.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7sshxgtlz6</Fingerprint>
-      <Integrity>CUOw6gzAYhX0lxUeAgrms+V1r3SMk9Y/2vClUjhFEmw=</Integrity>
+      <Fingerprint>ji0qa41ql0</Fingerprint>
+      <Integrity>5RAsZJBgZvfk2yke7fMlwxMaYJdlbku6hZuejVdaWw0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\consumer-durables-background.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\consumer-durables-background.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\contact.jpg'))">
       <SourceType>Package</SourceType>
@@ -2082,8 +2082,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dggyd98q92</Fingerprint>
-      <Integrity>zXjxAJ5wus5mhNQ0hh5VRYK14Cz4SA96b8AIg5qIIBo=</Integrity>
+      <Fingerprint>6yamxa8qzt</Fingerprint>
+      <Integrity>7gkKdQ33/NYH6hgR/ryZelHII1I4HjP4yN11HM2DQ8E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\welcome\front-view-arrangement-economy-elements.jpg'))</OriginalItemSpec>
@@ -2208,8 +2208,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>96g3mqy2tg</Fingerprint>
-      <Integrity>oZJk14pGupAxEAi3PC19DKgkZqMGkgq1PSoUmGf9qoI=</Integrity>
+      <Fingerprint>87ay2yhrup</Fingerprint>
+      <Integrity>JEJIIUMFIuYafll+m0kpvdjOYadg2Uq+NuTubkHzs+Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</OriginalItemSpec>

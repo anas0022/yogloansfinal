@@ -44,7 +44,7 @@ business.onclick = function () {
     vehicle.classList.remove('active');
     head.textContent = "Business Loan";
     sub.textContent = "Loan Provided Minimum 5 Members And Maximum 1 Member ";
-    welcome.style.backgroundImage = "url(images/welcome/business-background.jpg)";
+    welcome.style.backgroundImage = "url(images/welcome/business-background.png)";
     point3.style.display = "block";
     detail.textContent = "Business Loan is a small value unsecured loan granted to individuals engaged in retail trade for development of their business for augmenting the working capital and/or for meeting capital expenditure. ";
     point1.innerHTML = `<img src="images/icon/checklist.png" alt="" srcset=""> Low interest rate`;
@@ -58,7 +58,7 @@ cd.onclick = function () {
     vehicle.classList.remove('active');
     head.textContent = "Consumer Durable Loan";
     sub.textContent = "The Second Co-Applicant Shall Be A Person From The Same Group ";
-    welcome.style.backgroundImage = "url(images/welcome/consumer-durables-background.jpg)";
+    welcome.style.backgroundImage = "url(images/welcome/consumer-durables-background.png)";
     detail.textContent = " ";
     point1.innerHTML = `<img src="images/icon/checklist.png" alt="" srcset=""> Low interest rate. `;
     point2.innerHTML = `<img src="images/icon/checklist.png" alt="" srcset=""> Unsecured upto Rs.200000 for eligible customers`;
@@ -71,7 +71,7 @@ vehicle.onclick = function () {
     vehicle.classList.add('active');
     head.textContent = "Vehicle Loan";
     sub.textContent = "Finance Facility Upto Onroad Price For Eligible Customers  ";
-    welcome.style.backgroundImage = "url(images/welcome/bike-background.jpg)";
+    welcome.style.backgroundImage = "url(images/welcome/bike-background.png)";
     detail.textContent = "A Vehicle Loan is a convenient and secure way to access instant funds by pledging your vehicle as collateral. With minimal documentation and quick processing, it is an ideal solution for urgent financial needs such as business expansion, medical emergencies, or education expenses. The loan amount is determined based on the value of the vehicle, offering competitive interest rates and flexible repayment options to suit your needs.  ";
     point1.innerHTML = `<img src="images/icon/checklist.png" alt="" srcset=""> Low interest rate. `;
     point3.style.display = "block";

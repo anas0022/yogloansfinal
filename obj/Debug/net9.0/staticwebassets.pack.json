@@ -441,12 +441,12 @@
       "PackagePath": "staticwebassets\\images\\welcome\\Artboard.png"
     },
     {
-      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\bike-background.jpg",
-      "PackagePath": "staticwebassets\\images\\welcome\\bike-background.jpg"
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\bike-background.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\bike-background.png"
     },
     {
-      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\business-background.jpg",
-      "PackagePath": "staticwebassets\\images\\welcome\\business-background.jpg"
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\business-background.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\business-background.png"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\cdn.jpg",
@@ -457,8 +457,8 @@
       "PackagePath": "staticwebassets\\images\\welcome\\colleagues-working-project-discussing-details.jpg"
     },
     {
-      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\consumer-durables-background.jpg",
-      "PackagePath": "staticwebassets\\images\\welcome\\consumer-durables-background.jpg"
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\consumer-durables-background.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\consumer-durables-background.png"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\contact.jpg",
