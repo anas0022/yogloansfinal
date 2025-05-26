@@ -50,12 +50,12 @@ business.onclick = function () {
     head.textContent = "Business Loan";
     sub.textContent = "Loan Provided Minimum 5 Members And Maximum 1 Member ";
      if (window.innerWidth <= 780) {
-        welcome.style.backgroundImage = "url(images/welcome/mobile-gold-background.jpg)";
+        welcome.style.backgroundImage = "url(images/welcome/business-background2.png)";
     } else {
            welcome.style.backgroundImage = "url(images/welcome/business-background.png)";
     }
 
-    welcome.style.backgroundImage = "url(images/welcome/business-background.png)";
+   
     point3.style.display = "block";
     detail.textContent = "Business Loan is a small value unsecured loan granted to individuals engaged in retail trade for development of their business for augmenting the working capital and/or for meeting capital expenditure. ";
     point1.innerHTML = `<img src="images/icon/checklist.png" alt="" srcset=""> Low interest rate`;

@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\css\\about\\welcome.css"
     },
     {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\css\\business\\style.css",
+      "PackagePath": "staticwebassets\\css\\business\\style.css"
+    },
+    {
       "Id": "D:\\yogloansdotnet\\wwwroot\\css\\career\\card.css",
       "PackagePath": "staticwebassets\\css\\career\\card.css"
     },
@@ -459,6 +463,10 @@
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\business-background.png",
       "PackagePath": "staticwebassets\\images\\welcome\\business-background.png"
+    },
+    {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\business-background2.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\business-background2.png"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\cd2.png",
