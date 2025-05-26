@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\Gold\\benefit.css"
     },
     {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\css\\Gold\\gold.css",
+      "PackagePath": "staticwebassets\\css\\Gold\\gold.css"
+    },
+    {
       "Id": "D:\\yogloansdotnet\\wwwroot\\css\\Gold\\section.css",
       "PackagePath": "staticwebassets\\css\\Gold\\section.css"
     },
@@ -47,6 +51,10 @@
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\css\\career\\welcome.css",
       "PackagePath": "staticwebassets\\css\\career\\welcome.css"
+    },
+    {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\css\\cd\\cd.css",
+      "PackagePath": "staticwebassets\\css\\cd\\cd.css"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\css\\contact\\contact.css",
@@ -99,6 +107,10 @@
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\css\\vehicle\\vehicle.css",
+      "PackagePath": "staticwebassets\\css\\vehicle\\vehicle.css"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\favicon.ico",
@@ -449,6 +461,10 @@
       "PackagePath": "staticwebassets\\images\\welcome\\business-background.png"
     },
     {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\cd2.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\cd2.png"
+    },
+    {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\cdn.jpg",
       "PackagePath": "staticwebassets\\images\\welcome\\cdn.jpg"
     },
@@ -467,6 +483,10 @@
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\front-view-arrangement-economy-elements.jpg",
       "PackagePath": "staticwebassets\\images\\welcome\\front-view-arrangement-economy-elements.jpg"
+    },
+    {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\gold2.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\gold2.png"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\goldloan.jpg",
@@ -491,6 +511,10 @@
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\vehicle2.jpg",
       "PackagePath": "staticwebassets\\images\\welcome\\vehicle2.jpg"
+    },
+    {
+      "Id": "D:\\yogloansdotnet\\wwwroot\\images\\welcome\\vehicle2.png",
+      "PackagePath": "staticwebassets\\images\\welcome\\vehicle2.png"
     },
     {
       "Id": "D:\\yogloansdotnet\\wwwroot\\js\\site.js",

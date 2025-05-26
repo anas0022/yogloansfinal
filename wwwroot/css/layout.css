@@ -460,6 +460,9 @@ menu .menu-container{
      .menu-container img {
       width: 15%;
      }
+     .icons .item img{
+      width: 25%;
+     }
 
      .contact .contact-container {
       width: 95% !important;
